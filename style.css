@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#controls {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#practice-area {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#current-key {
+  font-size: 48px;
+}
+
+
